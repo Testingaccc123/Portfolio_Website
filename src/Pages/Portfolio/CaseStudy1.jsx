@@ -20,7 +20,7 @@ const CaseStudy1 = () => {
                         <span className="Text-bold">Photoshop, Illustrator, and Figma</span>
                     </div>
                     <div className='col-md-5 Margin'>
-                        <p>Brand Identity and Web Design for PickShare, a sports analytics platform</p>
+                        <p>Branding and Web App Design for sports analytics platform</p>
                     </div>
                 </div>
 

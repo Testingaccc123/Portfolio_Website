@@ -13,7 +13,7 @@ const CaseStudy3 = () => {
                     <span className="Text-bold ">Figma</span>
                 </div>
                 <div className='col-md-5 Margin'>
-                <p >Ui Design for automation tool</p>
+                <p >UI Design for Automation Tool</p>
                 </div>
             </div>
             

@@ -13,11 +13,11 @@ const CaseStudy2 = () => {
         <div className='container-fluid' >
             <div className='d-flex mt-5 mb-3'>
                 <div className='col-md-5 ms-3'>
-                    <h1>Personal Portfolio</h1>
-                    <span className="Text-bold">Photoshop and Figma</span>
+                    <h1>BegottenDesigns</h1>
+                    <span className="Text-bold">Photoshop, Illustrator, and Figma</span>
                 </div>
                 <div className='col-md-5 Margin '>
-                    <p >Web Design for my personal portfolio</p>
+                    <p >Logo and Web Design</p>
                 </div>
             </div>
 
