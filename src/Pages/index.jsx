@@ -13,7 +13,7 @@ const index = () => {
                     <h1>DIGITAL DESIGNER</h1>
                 </div>
                 <div>
-                    <h3>Firstname Lastname</h3>
+                    <h3>Benjamin Murdy</h3>
                 </div>
             </div>
             </section>

@@ -60,7 +60,7 @@ const Portfolio = () => {
           <div className='col-md-6 col-xxl-6 CaseStudy  '>
             <Link to="/CaseStudy1">
               <img className='main' src={Image1} alt='Project' />
-              <div className='Overlay'>View<i className="fa fa-long-arrow-right ms-2 mt-1" aria-hidden="true"></i></div>
+              <div className='Overlay'>View</div>
             </Link>
           </div>
         </div>
@@ -69,7 +69,7 @@ const Portfolio = () => {
           <div className='col-md-6 col-xxl-6 col-12 CaseStudy'>
             <Link to="/CaseStudy3 ">
               <img className='main' src={Image10} alt=' Project' />
-              <div className='Overlay'>View<i className="fa fa-long-arrow-right ms-2 mt-1" aria-hidden="true"></i></div>
+              <div className='Overlay'>View</div>
             </Link>
           </div>
           <div className='col-md-6 col-xxl-6'>
@@ -114,7 +114,7 @@ const Portfolio = () => {
           <div className='col-md-6 col-xxl-6 CaseStudy'>
             <Link to="/CaseStudy2 ">
               <img className='main' src={Image11} alt='Project' />
-              <div className='Overlay'>View<i className="fa fa-long-arrow-right ms-2 mt-1" aria-hidden="true"></i></div>
+              <div className='Overlay'>View</div>
             </Link>
           </div>
         </div>

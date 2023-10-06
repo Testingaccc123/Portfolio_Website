@@ -72,7 +72,7 @@ const Header = () => {
       <div className="container-fluid">
         <a className="navbar-brand " href="/">
           <img className="logo me-3" src={Logo} alt="logo" />
-          Digital Designer
+          BegottenDesigns
         </a>
         <button
           className="navbar-toggler"
