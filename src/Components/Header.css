@@ -1,0 +1,62 @@
+nav{
+    background-color: rgb(20, 18, 34);
+    border-bottom: 2px solid rgb(18, 12, 20); /*underline effect on header*/
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /*underline shadow on header*/
+}
+
+
+.navbar-scroll-up {
+  transform: translateY(-70px);
+  transition: transform 0.5s;
+}
+
+.navbar-scroll-down {
+  transform: translateY(0);
+  transition: transform 0.5s;
+}
+
+
+.nav-link{
+    color: rgb(255,255,255);
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.marginRight{
+   padding-right: 5em;
+}
+
+.logo{
+  margin-left: 2.5em;
+}
+.navbar-brand{
+    color: rgb(255,255,255);
+    font-weight: 700;
+    font-size: 1.7rem;
+}
+
+.nav-link:hover , .navbar-brand:hover{
+    color: rgb(255,255,255);
+}
+
+@media screen and (max-width:768px){
+    .logo {
+      width: 2vw;
+    }
+}
+
+
+@media screen and (min-width:1440px){
+    .logo {
+      width: 1.5vw;
+    }
+
+    .marginRight{
+        padding-right: 5em;
+     }
+     
+     .marginLeft{
+         padding-left: 5em;
+      }
+}
+

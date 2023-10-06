@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(20, 18, 34);
+    color: rgb(255, 255, 255);
+}
+
+ 
+.Container {
+    margin-top: 13vw;
+    margin-bottom: 15vw;
+}
+
+.Container h1 /* TITLE HERE*/
+{  
+    font-weight: 900;
+    font-size: 7vw;
+}
+
+.Container h3  /* firstname Lastname*/
+ {
+    font-weight: 650;
+    font-size: 3vw;
+}
+
+@media screen and (min-width: 1440px){
+    .Container {
+        margin-top: 20vw;
+        margin-bottom: 20vw;
+    }
+}
+

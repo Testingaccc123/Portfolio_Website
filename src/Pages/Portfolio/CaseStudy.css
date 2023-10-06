@@ -1,0 +1,53 @@
+.CaseStudy_Container{
+    margin: 5% 20%;
+}
+
+.Images img{
+    width: 100%;
+    margin-left: 5% ;
+}
+
+.Margin{
+    margin-left: 9.5%;
+    margin-top: 2%;
+    font-size: 2vw;
+    font-weight: 500;
+}
+
+.Text-bold{
+    font-size: 1.5vw;
+}
+
+.AllMargin{
+    margin: 1em 7em;
+}
+
+
+@media screen and (min-width:1440px) {
+    .CaseStudy_Container{
+        margin: 5% 35%;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .CaseStudy_Container{
+        margin: 8%;
+    }
+
+    .CaseStudy_Container p,  .CaseStudy_Container span{
+      font-size: 2vw;
+    }
+
+    .CaseStudy_Container h1{
+        font-size: 3vw;
+      }
+      
+    .Images img{
+        width: 90%;
+    }
+
+    
+}
+
+
+
