@@ -9,6 +9,7 @@ import Image6 from "../../Assets/Project1.6.png";
 import Image7 from "../../Assets/Project1.7.png";
 import Image8 from "../../Assets/Project1.8.png";
 import Image9 from "../../Assets/Project1.9.png";
+import Image10 from "../../Assets/Project1.10.png";
 
 const CaseStudy1 = () => {
     return (
@@ -57,6 +58,9 @@ const CaseStudy1 = () => {
                     <div className='col-md-12 mb-1'>
                         <img src={Image9} alt='Project 9' className='img-fluid mx-auto d-block' style={{ margin: '0.5em', width: "97%" }} />
                     </div>
+                    <div className='col-md-12 mb-1'>
+                    <img src={Image10} alt='Project 10' className='img-fluid mx-auto d-block' style={{ margin: '0.5em', width: "97%" }} />
+                    </div>         
                 </div>
             </div>
         </div>
