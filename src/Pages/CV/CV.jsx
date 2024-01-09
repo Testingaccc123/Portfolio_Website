@@ -19,8 +19,6 @@ const CV = () => {
           </span></div>
           <div className="Flex_Item3 text-end">
             <h3>Benjamin Logan Murdy</h3>
-            <span className="font">(He/Him)</span>
-            <br />
             <span className="font">Digital Designer and Entrepreneur</span>
           </div>
         </div>
