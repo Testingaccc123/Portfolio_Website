@@ -85,9 +85,10 @@ const CV = () => {
             </div>
             <div className='mb-5'>
               <h5>Graphic Designer</h5>
-              <span>PickShare, Tuscaloosa, AZ (2023-Present) </span>
+              <span>PickShare, Dover, DE (2023-Present) </span>
               <ul className="bullet-list">
                 <li>Utilized abilities to create a UI with prototyping for developers to understand flow, in turn increasing productivity</li>
+                <li>Produced graphic elements and visual content for PickShare, enhancing its aesthetical appeal</li>
                 <li>Developing more styles and skills, incorporating current trends to improve appeal</li>
               </ul>
             </div>
