@@ -17,8 +17,10 @@ const CaseStudy1 = () => {
             <div className='container-fluid '>
                 <div className='d-flex'>
                     <div className='col-md-5 mt-3 ms-4'>
-                        <h1 className=' mt-3 '>PickShare</h1>
+                        <h1 className=' mt-3 '>
+                            <a href='http://16.170.205.128/' target='_blank' rel='noopener noreferrer' style={{ color: 'inherit', textDecoration: 'none' }} >PickShare</a></h1>
                         <span className="Text-bold">Photoshop, Illustrator, and Figma</span>
+
                     </div>
                     <div className='col-md-5 Margin'>
                         <p>Branding and Web App Design for sports analytics platform</p>
