@@ -43,6 +43,7 @@ const CV = () => {
               <ul className="bullet-list">
                 <li>Photoshop</li>
                 <li>Illustrator</li>
+                <li>InDesign</li>
                 <li>Premiere Pro</li>
                 <li>Figma</li>
               </ul>
