@@ -19,6 +19,10 @@ import Image17 from "../../Assets/Grids-16.png"
 import Image18 from "../../Assets/Grids-17.png"
 import Image19 from "../../Assets/Grids-18.png"
 import Image20 from "../../Assets/Grids-19.png"
+import Image21 from "../../Assets/Grids-20.png"
+import Image22 from "../../Assets/Grids-21.png"
+import Image23 from "../../Assets/Grids-22.png"
+import Image24 from "../../Assets/Grids-23.png"
 import { Link } from 'react-router-dom';
 import './Portfolio.css';
 
@@ -148,6 +152,33 @@ const Portfolio = () => {
                 <img src={Image19} alt=' Project 18' className='img-fluid full-viewport' />
               </div>
             </div>
+          </div>
+        </div>
+
+        <div className='row mt-4'>
+          <div className='col-md-6 col-xxl-6'>
+            <div className='row mb-3'>
+              <div className='col-md-6'>
+                <img src={Image21} alt='Project 20' className='img-fluid full-viewport' />
+              </div>
+              <div className='col-md-6 col-xxl-6'>
+                <img src={Image22} alt='Project 12' className='img-fluid full-viewport' />
+              </div>
+            </div>
+            <div className='row mt-4'>
+              <div className='col-md-6 col-xxl-6'>
+                <img src={Image23} alt=' Project 13' className='img-fluid full-viewport' />
+              </div>
+              <div className='col-md-6 col-xxl-6'>
+                <img src={Image24} alt='Project 14' className='img-fluid full-viewport' />
+              </div>
+            </div>
+          </div>
+          <div className='col-md-6 col-xxl-6 CaseStudy'>
+            <Link to="/CaseStudy2 ">
+              <img className='main' src={Image20} alt='Project' />
+              <div className='Overlay'>View</div>
+            </Link>
           </div>
         </div>
       
