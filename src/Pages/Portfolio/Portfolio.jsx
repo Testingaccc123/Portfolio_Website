@@ -175,7 +175,7 @@ const Portfolio = () => {
             </div>
           </div>
           <div className='col-md-6 col-xxl-6 CaseStudy'>
-            <Link to="/CaseStudy2 ">
+            <Link to="/CaseStudy5 ">
               <img className='main' src={Image20} alt='Project' />
               <div className='Overlay'>View</div>
             </Link>
