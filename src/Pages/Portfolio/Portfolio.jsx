@@ -14,6 +14,11 @@ import Image12 from "../../Assets/Grids-11.png"
 import Image13 from "../../Assets/Grids-12.png"
 import Image14 from "../../Assets/Grids-13.png"
 import Image15 from "../../Assets/Grids-14.png"
+import Image16 from "../../Assets/Grids-15.png"
+import Image17 from "../../Assets/Grids-16.png"
+import Image18 from "../../Assets/Grids-17.png"
+import Image19 from "../../Assets/Grids-18.png"
+import Image20 from "../../Assets/Grids-19.png"
 import { Link } from 'react-router-dom';
 import './Portfolio.css';
 
@@ -75,18 +80,18 @@ const Portfolio = () => {
           <div className='col-md-6 col-xxl-6'>
             <div className='row mb-3'>
               <div className='col-md-6 col-xxl-6'>
-                <img src={Image6} alt='Project 6' className='img-fluid full-viewport' />
+                <img src={Image6} alt='Project 7' className='img-fluid full-viewport' />
               </div>
               <div className='col-md-6 col-xxl-6'>
-                <img src={Image7} alt='Project 7' className='img-fluid full-viewport' />
+                <img src={Image7} alt='Project 8' className='img-fluid full-viewport' />
               </div>
             </div>
             <div className='row mt-4'>
               <div className='col-md-6 col-xxl-6'>
-                <img src={Image8} alt=' Project 8' className='img-fluid full-viewport' />
+                <img src={Image8} alt=' Project 9' className='img-fluid full-viewport' />
               </div>
               <div className='col-md-6 col-xxl-6'>
-                <img src={Image9} alt=' Project 9' className='img-fluid full-viewport' />
+                <img src={Image9} alt=' Project 10' className='img-fluid full-viewport' />
               </div>
             </div>
           </div>
@@ -116,6 +121,33 @@ const Portfolio = () => {
               <img className='main' src={Image11} alt='Project' />
               <div className='Overlay'>View</div>
             </Link>
+          </div>
+        </div>
+
+        <div className='row mt-4 '>
+        <div className='col-md-6 col-xxl-6 col-12 CaseStudy'>
+            <Link to="/CaseStudy4 ">
+              <img className='main' src={Image20} alt=' Project' />
+              <div className='Overlay'>View</div>
+            </Link>
+          </div>
+          <div className='col-md-6'>
+            <div className='row mb-3'>
+              <div className='col-md-6 col-xxl-6'>
+                <img src={Image16} alt=' Project 15' className='img-fluid full-viewport' />
+              </div>
+              <div className='col-md-6 col-xxl-6'>
+                <img src={Image17} alt='Project 16' className='img-fluid full-viewport' />
+              </div>
+            </div>
+            <div className='row mt-4'>
+              <div className='col-md-6 col-xxl-6'>
+                <img src={Image18} alt=' Project 17' className='img-fluid full-viewport' />
+              </div>
+              <div className='col-md-6 col-xxl-6'>
+                <img src={Image19} alt=' Project 18' className='img-fluid full-viewport' />
+              </div>
+            </div>
           </div>
         </div>
       
